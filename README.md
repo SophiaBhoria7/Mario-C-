@@ -10,8 +10,7 @@ In a file called mario.c in a folder called mario-more, implement a program in C
       #   #
     # #   # #
 
-And let’s allow the user to decide just how tall the pyramids should be by first prompting them for a positive int between, say, 1 and 8, inclusive.
-
+And let’s allow the user to decide just how tall the pyramids should be by first prompting them for a positive int between 0 and 10 (exclusive).
 Notice that width of the “gap” between adjacent pyramids is equal to the width of 3 hashes, irrespective of the pyramids’ heights.
 
 */
