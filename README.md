@@ -3,7 +3,7 @@ This is the Mario Problem Set that is given in the CS50: Intro to CS Problem Set
 
 
 /*
-This is the description of the file and the instructions
+This is the description of the file and the instructions from the CS50 Course
 
 In a file called mario.c in a folder called mario-more, implement a program in C that recreates that pyramid, using hashes (#) for bricks, as in the below:
 
